@@ -3,7 +3,7 @@
 body{
 	background: linear-gradient(#2d2d2d, #1a1a1a) fixed;
 	/*background: linear-gradient(#242444, #040424) fixed;*/
-	font-family: "Quicksand";
+	font-family: 'Quicksand', sans-serif;
 	color: #FFFFFF;
 	/*text-align: center;*/
 }
