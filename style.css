@@ -1,0 +1,116 @@
+@charset "utf-8";
+
+body{
+	background: linear-gradient(#2d2d2d, #1a1a1a) fixed;
+	/*background: linear-gradient(#242444, #040424) fixed;*/
+	font-family: "Quicksand";
+	color: #FFFFFF;
+	/*text-align: center;*/
+}
+
+h1{
+	
+	font-weight: normal;
+	font-size: 140px;
+	text-shadow: 0px 0px 30px #00000080;
+	text-align: center;
+
+}
+
+h2{
+
+	font-size: 60px;
+	text-shadow: 0px 0px 10px #00000080;
+	margin-bottom: 0px;
+
+}
+
+p{
+	
+	font-family: -apple-system, Sans-Serif;
+	font-weight: 150;
+	font-size: 40px;
+	margin-top: 10px;
+
+}
+
+.MainMenu{
+	
+	background-color: #373737;
+	margin-left: 40px;
+	margin-right: 40px;
+	border-radius: 75px;
+	
+}
+
+.buttons{
+
+	text-align: center;
+
+}
+
+.btn-square{
+
+	font-family: Quicksand;
+	color: #181818;
+	width: 60vw;
+	height: 100px;
+	font-size: 50px;
+	border-radius: 25px;
+	box-shadow: 0px 0px 30px #00000080;
+	border-width: 0px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	text-shadow: 0px 0px 30px #00000080;
+	
+}
+
+.cydia{
+  background: linear-gradient(135deg, #b98e55, #b98e55 20%,  #d7d7d7 21%, #d7d7d7);
+}
+
+.sileo{
+  background: linear-gradient(135deg, #55b9ad, #55b9ad 20%,  #d7d7d7 21%, #d7d7d7);
+}
+
+.zebra{
+  background: linear-gradient(135deg, #1f1f1f, #1f1f1f 20%,  #d7d7d7 21%, #d7d7d7);
+}
+
+.packages{
+
+	margin-left: 20px;
+	margin-right: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: left;
+
+}
+
+.packages h2{
+	font-weight: normal;
+}
+
+.packages-block{
+
+	font-family: Verdana;
+	display: inline-block;
+	vertical-align: top;
+	background: #cba36d;
+	color: #ffffff;
+	width: 400px;
+	height: 200px;
+	font-size: 40px;
+	border-radius: 30px;
+	border-width: 0px;
+	margin-top: 20px;
+	margin-left: 10px;
+	text-align: left;
+	text-shadow: 0px 0px 30px #00000080;
+	
+}
+
+
+
+
+
