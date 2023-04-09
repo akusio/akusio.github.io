@@ -1,0 +1,18 @@
+Package: jp.akusio.backgrounderaction15
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: @akusio_RR
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction15_0.1.0_iphoneos-arm64.deb
+Size: 9758
+MD5sum: dc22298382fa90b55cada3c17be1505e
+SHA1: f792ae16efe120e57cb3250cc68f7937013943b7
+SHA256: c497c404ffff941c5fe757f634f5c392f88564e6dcd5fc266a1eeea51b3b948d
+SHA512: 708b2680812c1b400eef5917dc86418ff370992034ec9f594ad8e10465641a2e97a2cc41d9c4aa23009b728437d104f9199f44458d6846675ca1019adb3d897a
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction15 CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Author: @akusio_RR
+
